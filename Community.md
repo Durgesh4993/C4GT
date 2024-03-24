@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Durgesh Kumar Prajapati</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Durgesh4993</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/durgesh4993/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>SR Institute Of Management and Technology, Lucknow</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
